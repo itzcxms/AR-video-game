@@ -11,6 +11,7 @@ Nous sommes en pleine guerre, vous etes un soldat et vous vous retrouvez en dess
 ## Fonctionnement
 
 Il y a un compteur de score, vous commencez a 0 points et le but est d'en obtenir le plus possible, sachant que detruire une caisse de ravitaillement rapporte 1 point mais detruire une bombe en enleve 10.
+Si vous descendez en dessous de 0, vous avez perdu.
 
 ## Rendu du travail
 
