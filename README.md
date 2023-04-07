@@ -1,6 +1,7 @@
 # WAR AR
 
 Decouvrez notre nouveau jeu de realite augmentee, apres des annees de travail et de developpement (c'est faux).
+Par Arthur Philippe, Robin Dussourd et Cameron Bonsigne.
 
 ## Synopsis
 
